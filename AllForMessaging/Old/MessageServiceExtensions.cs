@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 
-namespace AllForMessaging;
+namespace AllForMessaging.Old;
 
 /// <summary>
 /// Extension methods for registering <see cref="IMessagingService"/> implementations with the dependency injection container.

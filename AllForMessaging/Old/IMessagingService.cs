@@ -1,4 +1,4 @@
-﻿namespace AllForMessaging;
+﻿namespace AllForMessaging.Old;
 
 /// <summary>
 /// A messaging service that allows sending messages to registered listeners.

@@ -4,7 +4,7 @@ using System.Diagnostics.CodeAnalysis;
 
 using Microsoft.Extensions.Logging;
 
-namespace AllForMessaging;
+namespace AllForMessaging.Old;
 
 /// <summary>
 /// An observer that listens for messages and then can relay them to other systems.
