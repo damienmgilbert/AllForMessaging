@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AllForMessaging.ConsoleApp/AllForMessaging.ConsoleApp.csproj" />
+  <Project Path="AllForMessaging/AllForMessaging.csproj" />
+</Solution>
